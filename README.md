@@ -1,0 +1,2 @@
+# JavaScript
+Ödev_1
